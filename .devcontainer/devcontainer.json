@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "github dZEB",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
